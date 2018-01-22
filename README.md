@@ -6,3 +6,4 @@ Enhancements:
 - "Back to top" link seen in footer menu
 - Fully responsive at any screen size (greater than 2 viewports)
 - Favicon integration
+- Put through WAVE tool with no major errors or alerts
